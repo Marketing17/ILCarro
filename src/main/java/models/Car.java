@@ -30,8 +30,4 @@ public class Car {
     String typeFeature;
     String about;
 
-
-
-
-
 }

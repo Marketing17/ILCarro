@@ -8,8 +8,8 @@ import org.testng.annotations.Test;
 
 public class LoginTest extends TestBase{
 
-    String email = "asd@fgh.com";
-    String password = "$Asdf1234";
+    String email = "lithuaniandetective@gmail.com";
+    String password = "z!6gGnsy2.SDdYg";
 
     @BeforeMethod
     public void precondition(){

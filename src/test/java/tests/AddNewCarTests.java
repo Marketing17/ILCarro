@@ -49,7 +49,7 @@ public class AddNewCarTests extends TestBase{
 
         app.getCar().openCarForm();
         app.getCar().fillCarForm(car);
-//        app.getCar().attachPhoto();
-//        app.getUser().submitForm();
+        app.getCar().attachPhoto();
+        app.getUser().submitForm();
     }
 }
